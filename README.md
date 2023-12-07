@@ -1,2 +1,2 @@
-# FlyOasis #
-## Sistema de reservas aéreas Java, Spring boot, reactjs, mysql ##
+# iBUS #
+## Sistema de reservas de onibus ##
