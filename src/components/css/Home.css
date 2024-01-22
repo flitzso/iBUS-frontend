@@ -1,0 +1,15 @@
+.backgroundHome {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 99.7vw;
+    height: 98vh;
+    margin: -9%;
+    margin-top: -1%;
+  }
+
+  .rowHome {
+     background-color: #6e42c1b6;
+     position: relative;
+     margin-top: -31% !important;
+  } 
