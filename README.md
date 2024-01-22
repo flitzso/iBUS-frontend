@@ -33,7 +33,7 @@ Frontend do projeto iBUS um site de viagens.
 
 ```bash
 # Clone este repositorio
-$ git clone https://github.com/flitzso/MediMais-frontend
+$ git clone https://github.com/flitzso/iBUS-frontend
 
 # Acesse a pasta do projeto no seu terminal
 $ cd MediMais
