@@ -12,9 +12,9 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Login />} />
+        <Route path="/login" element={<Login />} />
         <Route path="/cadastro" element={<Cadastro />} />
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/acentos" element={<Acentos />} />
         <Route path="/navbar" element={<NavBar />} />
         <Route path="/footer" element={<Footer />} />
